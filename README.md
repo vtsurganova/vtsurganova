@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vtsurganova
 - Tallinn Polytehnic School student 
-- C#, Java, PHP, HTML/CSS 
+- C#, beginner in Java, studying PHP, HTML/CSS 
 - In search of Web Developer intership in Estonia 
 <!---
 vtsurganova/vtsurganova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
